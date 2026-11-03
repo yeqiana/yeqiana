@@ -32,7 +32,9 @@
 | :--- | :--- | :--- |
 | [**StoryOS**](https://github.com/yeqiana/StroyOS) | AI Content · Workflow | 面向 AI 图文故事的生产系统，串联故事审核、视觉一致性、内容返修与交付流程。 |
 | [**AgentOps**](https://github.com/yeqiana/AgentOps) | AI Agents · Runtime | 面向企业场景的 Agent 后端底座，涵盖模型接入、工具调用、异步任务、编排与可观测性。 |
-| [**AI Coding Guardrails**](https://github.com/yeqiana/ai-coding-collaboration) | Developer Experience | 为 Codex / Claude Code / Cursor 提供轻量任务分级、最小改动、验证和交付规范。 |
+| [**Code Pact**](https://github.com/yeqiana/code-pact) | Developer Experience | 面向多 Coding Agent 协作的开发约定，强调任务分工、最小改动、验证和可追溯交付。 |
+| [**Gen UI**](https://github.com/yeqiana/gen-ui) | Developer Experience · UI | 让 Coding Agent 的 Markdown 交付更直观、结构化、易于阅读。 |
+| [**Plan Ship**](https://github.com/yeqiana/plan-ship) | Planning · Delivery | 从需求分析、实施方案、评审到测试验收的闭环工作规范。 |
 | [**Distributed Systems Audit**](https://github.com/yeqiana/distributed-system-audit) | Reliability · Testing | 从真实执行链路、状态不变量、并发与故障恢复角度审核分布式系统。 |
 
 ### 🧰 技术关注
