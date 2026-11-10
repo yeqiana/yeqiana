@@ -1,9 +1,9 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-    <img src="./assets/hero-light.svg" alt="YEQIAN · AI Engineering / Open Source" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/yeqiana/yeqiana/main/assets/hero-light.svg#gh-light-mode-only" alt="YEQIAN · AI Engineering / Open Source" width="100%" />
+  <img src="https://raw.githubusercontent.com/yeqiana/yeqiana/main/assets/hero-dark.svg#gh-dark-mode-only" alt="YEQIAN · AI Engineering / Open Source" width="100%" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/yeqiana/yeqiana/main/assets/yeqian-ip.svg#gh-light-mode-only" alt="YeQian abstract personal IP" width="112" />
+  <img src="https://raw.githubusercontent.com/yeqiana/yeqiana/main/assets/yeqian-ip-dark.svg#gh-dark-mode-only" alt="YeQian abstract personal IP" width="112" />
 
   <h3>你好，我是叶纤 / YeQian 👋</h3>
   <p><strong>让 AI 不止停留在 Demo，而是真正成为可靠的生产系统。</strong></p>

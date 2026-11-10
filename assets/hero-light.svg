@@ -1,81 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="YEQIAN — AI engineering, agent systems and reliable automation">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="YeQian personal profile banner, AI engineering and agent systems">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#FAFCFF"/>
-      <stop offset="1" stop-color="#EEF4FA"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#087F78"/>
-      <stop offset="1" stop-color="#6878EE"/>
-    </linearGradient>
-    <radialGradient id="halo">
-      <stop stop-color="#8BCFC8" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#8BCFC8" stop-opacity="0"/>
-    </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#D8E3EF" stroke-width="1"/>
+      <path d="M32 0H0V32" fill="none" stroke="#E6EAF0" stroke-width="1"/>
     </pattern>
-    <clipPath id="frame"><rect width="1200" height="360" rx="24"/></clipPath>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3A83F7"/>
+      <stop offset="1" stop-color="#8ABEFF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#DCEBFF" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#DCEBFF" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#bg)"/>
-    <rect width="1200" height="360" fill="url(#grid)" opacity=".55"/>
-    <circle cx="970" cy="180" r="210" fill="url(#halo)"/>
-    <rect x="28" y="26" width="1144" height="308" rx="20" fill="none" stroke="#D4E0EC"/>
-    <path d="M700 26V334" stroke="#DCE6F0" stroke-dasharray="3 7"/>
-    <rect x="76" y="58" width="252" height="31" rx="15.5" fill="#E4F4F0" stroke="#B9DED7"/>
-    <circle cx="94" cy="73.5" r="4" fill="#087F78"/>
-    <text x="108" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.4" fill="#176D65">BUILDING RELIABLE AI SYSTEMS</text>
-    <text x="70" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="91" font-weight="750" letter-spacing="2.5" fill="#122238">YEQIAN<tspan fill="url(#accent)">.</tspan></text>
-    <text x="78" y="216" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="1.5" fill="#53677D">AI ENGINEERING  /  OPEN SOURCE</text>
-    <path d="M78 242H624" stroke="#CFDCE9" stroke-width="1.5"/>
-    <g font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".8" fill="#52677D">
-      <rect x="78" y="264" width="154" height="34" rx="17" fill="#FFFFFF" stroke="#D6E2ED"/>
-      <text x="155" y="285" text-anchor="middle">AGENT SYSTEMS</text>
-      <rect x="244" y="264" width="144" height="34" rx="17" fill="#FFFFFF" stroke="#D6E2ED"/>
-      <text x="316" y="285" text-anchor="middle">WORKFLOW</text>
-      <rect x="400" y="264" width="154" height="34" rx="17" fill="#FFFFFF" stroke="#D6E2ED"/>
-      <text x="477" y="285" text-anchor="middle">DEVELOPER TOOLS</text>
-    </g>
-    <g fill="none" stroke="url(#accent)" stroke-opacity=".38">
-      <circle cx="970" cy="180" r="144" stroke-width="1.2"/>
-      <circle cx="970" cy="180" r="112" stroke-width="1" stroke-dasharray="3 7"/>
-      <circle cx="970" cy="180" r="78" stroke-width="1"/>
-    </g>
-    <g fill="none" stroke="#9CB8C9" stroke-width="1.5">
-      <path d="M892 112C920 112 916 151 930 151"/>
-      <path d="M1048 112C1020 112 1024 151 1010 151"/>
-      <path d="M892 248C920 248 916 209 930 209"/>
-      <path d="M1048 248C1020 248 1024 209 1010 209"/>
-    </g>
-    <g>
-      <rect x="760" y="86" width="132" height="52" rx="12" fill="#FFFFFF" stroke="#D4E1EC"/>
-      <circle cx="778" cy="104" r="4" fill="#087F78"/>
-      <text x="790" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".8" fill="#263D52">TOOLS</text>
-      <text x="790" y="124" font-family="Segoe UI,Arial,sans-serif" font-size="9.5" fill="#718397">MCP  ·  APIs</text>
-      <rect x="1048" y="86" width="132" height="52" rx="12" fill="#FFFFFF" stroke="#D4E1EC"/>
-      <circle cx="1066" cy="104" r="4" fill="#6878EE"/>
-      <text x="1078" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".8" fill="#263D52">MEMORY</text>
-      <text x="1078" y="124" font-family="Segoe UI,Arial,sans-serif" font-size="9.5" fill="#718397">CONTEXT</text>
-      <rect x="760" y="222" width="132" height="52" rx="12" fill="#FFFFFF" stroke="#D4E1EC"/>
-      <circle cx="778" cy="240" r="4" fill="#6878EE"/>
-      <text x="790" y="244" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".8" fill="#263D52">TRACE</text>
-      <text x="790" y="260" font-family="Segoe UI,Arial,sans-serif" font-size="9.5" fill="#718397">OBSERVABILITY</text>
-      <rect x="1048" y="222" width="132" height="52" rx="12" fill="#FFFFFF" stroke="#D4E1EC"/>
-      <circle cx="1066" cy="240" r="4" fill="#087F78"/>
-      <text x="1078" y="244" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".8" fill="#263D52">SHIP</text>
-      <text x="1078" y="260" font-family="Segoe UI,Arial,sans-serif" font-size="9.5" fill="#718397">DELIVERY</text>
-    </g>
-    <rect x="900" y="145" width="140" height="70" rx="16" fill="#FFFFFF" stroke="url(#accent)" stroke-width="1.8"/>
-    <rect x="909" y="154" width="122" height="52" rx="11" fill="#F3F8FB"/>
-    <text x="970" y="178" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.2" fill="#17364A">AGENT CORE</text>
-    <text x="970" y="194" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="8.5" font-weight="700" letter-spacing="1.1" fill="#087F78">ORCHESTRATION</text>
-    <g fill="#087F78">
-      <circle cx="930" cy="151" r="3"/>
-      <circle cx="1010" cy="151" r="3"/>
-      <circle cx="930" cy="209" r="3"/>
-      <circle cx="1010" cy="209" r="3"/>
-    </g>
-    <text x="1128" y="310" text-anchor="end" font-family="Consolas,monospace" font-size="10" letter-spacing="1.2" fill="#8495A7">SYSTEMS THAT SHIP  /  01</text>
+  <rect width="1200" height="360" fill="#FFFFFF"/>
+  <rect width="1200" height="360" fill="url(#grid)" opacity=".58"/>
+  <circle cx="1000" cy="180" r="230" fill="url(#glow)"/>
+  <rect x="24" y="24" width="1152" height="312" rx="20" fill="none" stroke="#E6EAF0" stroke-width="2"/>
+  <path d="M770 24V336" stroke="#E6EAF0" stroke-dasharray="3 7"/>
+  <rect x="72" y="58" width="230" height="30" rx="15" fill="#EFF5FF" stroke="#D9E8FF"/>
+  <circle cx="91" cy="73" r="4" fill="#3A83F7"/>
+  <text x="105" y="77" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="11" font-weight="700" letter-spacing="1.25" fill="#2469D8">PERSONAL IP  /  AI SYSTEMS</text>
+  <text x="68" y="170" font-family="system-ui,-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="66" font-weight="760" letter-spacing="1.5" fill="#1A1C1F">YEQIAN<tspan fill="#3A83F7">.</tspan></text>
+  <text x="74" y="207" font-family="system-ui,-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="20" font-weight="650" fill="#1A1C1F">叶纤  /  AI Engineering</text>
+  <text x="74" y="240" font-family="system-ui,-apple-system,'Segoe UI','Microsoft YaHei',sans-serif" font-size="15" fill="#667085">把复杂流程，做成可靠系统。</text>
+  <path d="M74 260H690" stroke="#E6EAF0" stroke-width="1.5"/>
+  <g font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10.5" font-weight="700" letter-spacing=".8" fill="#475467">
+    <rect x="74" y="279" width="144" height="30" rx="7" fill="#F5F7FA" stroke="#E6EAF0"/>
+    <text x="146" y="298" text-anchor="middle">AGENT RUNTIME</text>
+    <rect x="230" y="279" width="116" height="30" rx="7" fill="#F5F7FA" stroke="#E6EAF0"/>
+    <text x="288" y="298" text-anchor="middle">WORKFLOW</text>
+    <rect x="358" y="279" width="164" height="30" rx="7" fill="#F5F7FA" stroke="#E6EAF0"/>
+    <text x="440" y="298" text-anchor="middle">DEVELOPER TOOLS</text>
   </g>
+  <rect x="832" y="43" width="286" height="274" rx="22" fill="#F5F7FA" stroke="#E6EAF0" stroke-width="2"/>
+  <circle cx="975" cy="180" r="126" fill="none" stroke="#DCEBFF" stroke-width="1.5" stroke-dasharray="3 7"/>
+  <g transform="translate(850 55) scale(.52)">
+    <rect x="16" y="16" width="480" height="480" rx="108" fill="#FFFFFF" stroke="#E6EAF0" stroke-width="3"/>
+    <circle cx="256" cy="244" r="178" fill="none" stroke="#E3EDFA" stroke-width="2"/>
+    <path d="M133 151L164 174M379 150L350 174M145 375L174 351" fill="none" stroke="#C8DDFB" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="256" cy="244" r="145" fill="none" stroke="url(#accent)" stroke-width="34" stroke-linecap="round" stroke-dasharray="770 142" transform="rotate(45 256 244)"/>
+    <path d="M355 343L407 395" fill="none" stroke="url(#accent)" stroke-width="34" stroke-linecap="round"/>
+    <circle cx="256" cy="244" r="91" fill="#FFFFFF" stroke="#E6EAF0" stroke-width="3"/>
+    <circle cx="226" cy="231" r="10" fill="#1A1C1F"/>
+    <circle cx="286" cy="231" r="10" fill="#1A1C1F"/>
+    <path d="M226 271Q256 294 286 271" fill="none" stroke="#3A83F7" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="116" cy="139" r="11" fill="#3A83F7" stroke="#FFFFFF" stroke-width="5"/>
+    <circle cx="395" cy="151" r="10" fill="#67C23A" stroke="#FFFFFF" stroke-width="5"/>
+    <circle cx="143" cy="386" r="8" fill="#98A2B3" stroke="#FFFFFF" stroke-width="4"/>
+    <circle cx="410" cy="398" r="13" fill="#3A83F7" stroke="#FFFFFF" stroke-width="5"/>
+    <path d="M390 92V112M380 102H400" stroke="#3A83F7" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <rect x="850" y="57" width="96" height="24" rx="6" fill="#FFFFFF" stroke="#E6EAF0"/>
+  <circle cx="864" cy="69" r="3.5" fill="#67C23A"/>
+  <text x="875" y="73" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="9" font-weight="700" letter-spacing=".7" fill="#667085">BUILD / SHIP</text>
+  <text x="1128" y="313" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" letter-spacing="1" fill="#98A2B3">01 — PERSONAL SYSTEMS</text>
 </svg>

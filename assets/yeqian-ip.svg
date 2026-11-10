@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="YeQian abstract Qian Node mascot">
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3A83F7"/>
+      <stop offset="1" stop-color="#8ABEFF"/>
+    </linearGradient>
+    <linearGradient id="node" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2F75E8"/>
+      <stop offset="1" stop-color="#69A8FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="108" fill="#F5F7FA" stroke="#E6EAF0" stroke-width="3"/>
+  <circle cx="256" cy="244" r="178" fill="none" stroke="#E3EDFA" stroke-width="2"/>
+  <path d="M133 151L164 174M379 150L350 174M145 375L174 351" fill="none" stroke="#C8DDFB" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="256" cy="244" r="145" fill="none" stroke="url(#ring)" stroke-width="34" stroke-linecap="round" stroke-dasharray="770 142" transform="rotate(45 256 244)"/>
+  <path d="M355 343L407 395" fill="none" stroke="url(#ring)" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="256" cy="244" r="91" fill="#FFFFFF" stroke="#E6EAF0" stroke-width="3"/>
+  <circle cx="226" cy="231" r="10" fill="#1A1C1F"/>
+  <circle cx="286" cy="231" r="10" fill="#1A1C1F"/>
+  <path d="M226 271Q256 294 286 271" fill="none" stroke="#3A83F7" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="116" cy="139" r="11" fill="#3A83F7" stroke="#FFFFFF" stroke-width="5"/>
+  <circle cx="395" cy="151" r="10" fill="#67C23A" stroke="#FFFFFF" stroke-width="5"/>
+  <circle cx="143" cy="386" r="8" fill="#98A2B3" stroke="#FFFFFF" stroke-width="4"/>
+  <circle cx="410" cy="398" r="13" fill="#3A83F7" stroke="#FFFFFF" stroke-width="5"/>
+  <path d="M390 92V112M380 102H400" stroke="#3A83F7" stroke-width="5" stroke-linecap="round"/>
+</svg>
