@@ -35,7 +35,6 @@
 | [**Code Pact**](https://github.com/yeqiana/code-pact) | Developer Experience | 面向多 Coding Agent 协作的开发约定，强调任务分工、最小改动、验证和可追溯交付。 |
 | [**Gen UI**](https://github.com/yeqiana/gen-ui) | Developer Experience · UI | 让 Coding Agent 的 Markdown 交付更直观、结构化、易于阅读。 |
 | [**Plan Ship**](https://github.com/yeqiana/plan-ship) | Planning · Delivery | 从需求分析、实施方案、评审到测试验收的闭环工作规范。 |
-| [**Distributed Systems Audit**](https://github.com/yeqiana/distributed-system-audit) | Reliability · Testing | 从真实执行链路、状态不变量、并发与故障恢复角度审核分布式系统。 |
 
 ### 🧰 技术关注
 
