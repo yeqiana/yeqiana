@@ -33,7 +33,7 @@
 | [**StoryOS**](https://github.com/yeqiana/StroyOS) | AI Content · Workflow | 面向 AI 图文故事的生产系统，串联故事审核、视觉一致性、内容返修与交付流程。 |
 | [**AgentOps**](https://github.com/yeqiana/AgentOps) | AI Agents · Runtime | 面向企业场景的 Agent 后端底座，涵盖模型接入、工具调用、异步任务、编排与可观测性。 |
 | [**Code Pact**](https://github.com/yeqiana/code-pact) | Developer Experience | 面向多 Coding Agent 协作的开发约定，强调任务分工、最小改动、验证和可追溯交付。 |
-| [**Gen UI**](https://github.com/yeqiana/gen-ui) | Developer Experience · UI | 让 Coding Agent 的 Markdown 交付更直观、结构化、易于阅读。 |
+| [**Gen UI**](https://github.com/yeqiana/gen-ui) · [在线体验](https://yeqiana.github.io/gen-ui/zh.html) | Agent Skill · Information Design | 让 AI 回答更容易理解，支持易读 Markdown、离线 HTML 报告和架构图，保留事实与证据。 |
 | [**Plan Ship**](https://github.com/yeqiana/plan-ship) | Planning · Delivery | 从需求分析、实施方案、评审到测试验收的闭环工作规范。 |
 
 ### 🧰 技术关注
